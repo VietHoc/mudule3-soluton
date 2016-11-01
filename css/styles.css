@@ -36,12 +36,14 @@ h1{
   background-color: #FF69B4;
   position: relative;
   font-family: Helvetica;
+  margin-top: 10px;
 }
 
 #text {
   padding: 60px 15px 15px 15px;
   color: black;
   height: 700px;
+  margin-top: 10px;
 }
 
 .hi {
@@ -53,3 +55,7 @@ h1{
 .row {
   width: 100%;
 }
+.center{
+  text-align: center;
+}
+
